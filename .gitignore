@@ -1,0 +1,8 @@
+# Ignorar el entorno virtual 'venv'
+venv/
+
+# Ignorar todos los archivos .csv
+*.csv
+
+# Ingorar variables de entorno
+*.env
