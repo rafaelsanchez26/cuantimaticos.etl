@@ -6,3 +6,6 @@ venv/
 
 # Ingorar variables de entorno
 *.env
+
+# Ignorar archivos .txt
+*.txt
